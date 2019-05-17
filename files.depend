@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557802147 source:c:\users\brayan\desktop\file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1557802523 c:\users\brayan\desktop\file\file.h
+
+1557802562 source:c:\users\brayan\desktop\file\file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
